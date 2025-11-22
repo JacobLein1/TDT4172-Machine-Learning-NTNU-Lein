@@ -2,3 +2,6 @@ Assignment2/unsupervised_data.csv
 .DS_Store
 *.zip
 *.tar.gz
+.venv/
+*.csv
+*.pdf
